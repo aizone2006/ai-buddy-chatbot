@@ -4,13 +4,7 @@ st.set_page_config(page_title="AI Buddy Chatbot", layout="centered")
 st.title("🤖 AI Buddy - Your Shop Assistant")
 st.write("Ask me anything about your shop, products, or services!")
 
-shop_info = {
-    "pen": "Yes, we have Cello, Reynolds, and Parker pens starting from ₹5.",
-    "notebook": "We have Classmate and Navneet notebooks in A4 and long sizes.",
-    "medicine": "We sell common OTC medicines like Paracetamol, ORS, and cough syrup.",
-    "location": "We are located at Bibirhat Bazar, near the main road.",
-    "timing": "Shop open: 9 AM to 9 PM (every day).",
-    "payment": "We accept Cash, UPI, PhonePe, and Paytm."
+   shop_info = {
     "pen": "Yes, we have Cello, Reynolds, and Parker pens starting from ₹5.",
     "notebook": "We have Classmate and Navneet notebooks in A4 and long sizes.",
     "medicine": "We sell common OTC medicines like Paracetamol, ORS, and cough syrup.",
@@ -27,8 +21,6 @@ shop_info = {
     "return policy": "Items can be returned within 3 days with proper receipt.",
     "online payment": "Yes, UPI (GPay, PhonePe, Paytm) is accepted.",
     "upi": "You can pay using UPI QR code at the counter."
-}
-
 }
 
 def ai_buddy_response(user_input):

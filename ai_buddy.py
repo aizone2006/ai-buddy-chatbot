@@ -11,6 +11,24 @@ shop_info = {
     "location": "We are located at Bibirhat Bazar, near the main road.",
     "timing": "Shop open: 9 AM to 9 PM (every day).",
     "payment": "We accept Cash, UPI, PhonePe, and Paytm."
+    "pen": "Yes, we have Cello, Reynolds, and Parker pens starting from ₹5.",
+    "notebook": "We have Classmate and Navneet notebooks in A4 and long sizes.",
+    "medicine": "We sell common OTC medicines like Paracetamol, ORS, and cough syrup.",
+    "location": "We are located at Bibirhat Bazar, near the main road.",
+    "timing": "Shop open: 9 AM to 9 PM (every day).",
+    "payment": "We accept Cash, UPI, PhonePe, and Paytm.",
+    "calculator": "Yes, we sell Casio and Orpat calculators, starting at ₹250.",
+    "xerox": "Yes, we provide black & white and color Xerox facilities.",
+    "print": "We offer printout services in A4 and legal size formats.",
+    "stationery": "You’ll find pens, pencils, erasers, rulers, staplers, and more.",
+    "admission form": "Yes, we print and fill up online admission forms.",
+    "smartphone": "Sorry, we don't sell smartphones currently.",
+    "delivery": "We offer free local delivery on orders above ₹200.",
+    "return policy": "Items can be returned within 3 days with proper receipt.",
+    "online payment": "Yes, UPI (GPay, PhonePe, Paytm) is accepted.",
+    "upi": "You can pay using UPI QR code at the counter."
+}
+
 }
 
 def ai_buddy_response(user_input):
